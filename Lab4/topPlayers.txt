@@ -1,0 +1,4 @@
+FirstPlayer - 1850
+SecondPlayer - 900
+ThirdPlayer - 330
+FourthPlayer - 40
